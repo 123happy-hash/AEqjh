@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color: #00c9fc;
+    }
+#reasontext{
+    font-size: 50px;
+    }
+    #album{
+    width: 450px;
+    border-style: solid;
+    border-color: #00eeff;
+    border-radius: 80px;
+    padding: 5px;
+    }
